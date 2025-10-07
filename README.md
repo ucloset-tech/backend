@@ -81,6 +81,8 @@ pnpm run start:dev
 
 Servidor rodando em http://localhost:3000
 
+Documentação rodando em http://localhost:3000/swagger
+
 ## 7️⃣ Dicas de desenvolvimento
 
 Para manter o código consistente e evitar erros:
